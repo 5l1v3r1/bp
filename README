@@ -1,0 +1,40 @@
+BluePrint v0.1 
+(c) Collin Mulliner and Martin Herfurt - the trifinite group
+
+BluePrint is Bluetooth fingerprinting tool, which works much like nmap (tcp/ip)
+
+more information at: http://www.trifinite.org/trifinite_stuff_blueprinting.html
+
+usage:
+ 
+ just run "bd.pl" in will print out the usage information
+ 
+ bp.pl reads the output from "sdptool browse" and generates the finger print
+ for it
+
+adding fingerprints:
+
+ Add file containing the output of sdptool browse BD_ADDR and information about
+ the scanned device to the devices directory. The first line of the file
+ must contain the BD_ADDR (MAC) of the device. The device information must
+ be enclosed in "---info" and "/---info" tags. The sdp data must be
+ enclosed in "---sdp" and "/---sdp". Check the existing files to see
+ how it is done.
+ After adding new files just run: mkdb.pl
+
+adding more information:
+ 
+ port scan the device (bt_audit is available at www.trifinite.org)
+  btaudit.sh <BD_ADDR>
+	 or
+  psm_scan -o -s 1 -e 65535 <BD_ADDR>
+	rfcomm_scan -o <BD_ADDR>
+
+ get hardware info
+  hcitool info <BD_ADDR>
+
+ get device info from mobile phones using obexftp
+  obexftp -b <BD_ADDR> -B <CHANNEL> -g telecom/devinfo.txt
+
+ get capabilities from obex server (btobex is available at www.bluez.org)
+  btobex getcap <BD_ADDR> <CHANNEL>

@@ -1,0 +1,20 @@
+00:0E:ED@2949234
+model: nokia 7610 (nokia catalina)
+firmware version: V 4.0421.4 22-05-04 RH-51
+phone version: 2.0
+symbian version: 7.0s
+platform: series60
+platform version: 2.1
+
+additional info:
+CPU: ARM
+speed: 123MHz
+arch: ARM4T
+EOD
+00:80:37@2359452
+device: SonyEricsson T68i
+version: n/a
+date: n/a:
+type: mobile phone
+note: n/a
+EOD

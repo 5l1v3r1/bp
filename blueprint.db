@@ -1,0 +1,432 @@
+00:02:78@2621595
+Device: PDA
+Manufacturer: Acer
+Model: N30
+EOD
+00:0A:95@1114112
+device: Apple Wireless Keyboard
+version: unknown
+date: n/a
+type: HID
+note: n/a
+EOD
+00:01:E3@1957354
+device: Comneon H1
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:01:EC@2359452
+device: Ericsson T39m
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:0A:D9@2752758
+device: Ericsson T68i
+version: ?
+date: ?
+type: mobile phone
+note: ?
+EOD
+00:30:6E@269099048
+device: HP bt130
+version: n/a
+date: n/a
+type: printer adapter (Bluetooth - USB/LPT)
+note: n/a
+EOD
+xx:xx:xx@196610
+Device: Printer
+Model: Deskjet 995c
+Manufacturer: HP
+EOD
+08:00:28@2424991
+Device: HP iPAQ h4150
+Version: ROM Revision: 1.10.03 END
+         OS Version: Windows CE 4.20
+Note:
+ device prompted for connection during scan, DENY was pressed.
+EOD
+08:00:17@2949325
+device: HP iPAQ h5500
+version: PocketPC (4.20.1081)
+date: n/a
+type: pda
+note: n/a
+EOD
+08:00:28@3342638
+device: HP iPAQ h6315
+version: initial firmware
+date: n/a
+type: pda-phone combo
+note: n/a
+EOD
+00:09:2D@3342562
+Device: imate PDA2K
+Version:
+  Bluetooth version: Broadcom BT-PPC/PE Version 1.0.0 Build 3500
+  Windows Mobile 2003 Second Edition
+  Version 4.21.1088 Build 14132
+EOD
+00:0C:55@983040
+device: Microsoft Windows XP2
+version: n/a
+date: n/a
+type: PC
+note: this is just a sample for XP2 
+EOD
+C6:F7:4A@655407
+device: Motorola A1000
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:12:8A@655379
+Device: Phone
+Manufacturer: Motorola
+Model: A1000
+EOD
+00:0A:28@1769675
+device: Motorola V600
+version: ?
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:13:70@2949504
+Device: Nokia 3230
+Version: Model: RM-51 Firmware: 3.0510.0
+Date: n/a
+Type: mobile phone
+Note: http://www.nokia.com/nokia/0,,65362,00.html
+EOD
+00:60:57@1704020
+device: Nokia 3650
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:12:62@5114334
+device: Nokia 6320
+version: 05.24
+date: 25-11-04
+type: mobile phone
+note: n/a
+EOD
+00:12:62@5112150
+Device: Phone
+Manufacturer: Nokia
+Model: 6230 
+Version: firmware v 05.24
+EOD
+00:12:62@5112150
+Device: Phone
+Manufacturer: Nokia
+Model: 6230
+Version: firmware: V05.35
+EOD
+00:11:9F@4397732
+Device: Phone
+Manufacturer: Nokia
+Model: 6230
+Info:
+chaps@gentoo chaps $ gammu --identify
+Manufacturer  : Nokia
+Model         : 6230 (RH-12)
+Firmware      : 04.44 B (21-09-04)
+Hardware      : 0701
+IMEI          : REMOVED
+Original IMEI : REMOVED
+Manufactured  : 10/2004
+Product code  : 0517285
+Simlock data  : 26002f
+UEM           : 400
+EOD
+00:0E:ED@4391166
+device: Nokia 6320
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:60:57@2621543
+device:  Nokia 6310i
+version: V 5.22 15-11-02 NPL-1
+         V 5.50 03-03-03 NPL-1 (c) NMP
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:60:57@1704283
+device: Nokia 6600
+version: ?
+date: ?
+type: mobile phone
+note: n/a
+EOD
+00:60:57@1704467
+device: Nokia 6600
+version:  3.42.1
+date: 16/10/03
+type: mobile phone
+note: n/a
+EOD
+00:60:57@1704023
+device: Nokia 6600
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:11:9F@196658
+Device: Nokia 6630
+Version: n/a
+Date: n/a
+Note: Singapore version?
+EOD
+00:02:EE@4129543
+device: Nokia 6630
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:02:ee@4391166
+device: Nokia 6820
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:60:57@4128974
+device: Nokia 7600
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:0E:ED@2949234
+Device: Nokia 7610
+Version: Firmware revision v4.0437.4 15-09-04
+Note:
+ device prompted for connection during scan, DENY was pressed.
+EOD
+00:11:9F@3408116
+device: Nokia 7610
+version: ?
+type: mobile phone
+date: ?
+note: n/a
+EOD
+00:02:EE@1507908
+device:  Nokia7650
+version: V 3.16 / 15-08-02 / NHL-2NA
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:02:EE@5112150
+device: Nokia 7820
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:60:57@3605345
+device:  Nokia 8910i
+version: V 4.45 02-07-03 NHM - 4NX (c) NMP
+date: 02/07/03
+type: mobile phone
+note: n/a
+EOD
+00:60:57@1704023
+device: Nokia N-Gage
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:60:57@1507402
+device: Nokia N-Gage (V3)
+version: V_3.30_28-08-2003_NEM-4
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+08:00:28@1769546
+Device:  Sendo X
+Version: 1.98.5.2
+Date: n/a
+Note: n/a
+EOD
+00:E0:00@983040
+device: Siemens Fujitsu LOOX 600
+version: Operating System Version: 3.0 (PocketPC but version is unknown)
+date: 2002-12-02
+type: pda
+note: n/a
+EOD
+00:01:E3@1537756
+device:  Siemens S55
+version: PDate: 2003-03-31 SW-Version: 12
+         SW-Date: 2003-03-28 Variant: A 159
+         Std-MAp/SW: 76/14
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:01:E3@1957354
+device: Siemens S65
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+01:90:71@1957354
+device: Siemens SK65
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:01:E3@1704023
+device: Siemens SX1
+version:
+ Product: SX1
+ P-Date: 2003-12-14
+ SVN: 05
+ Appl SW Date: 21112003
+ Appl SW: 12:2_05Date: 2003-11-21
+ Modem Variant: B 101
+ Std-Map/SW: 1/5
+ D-Map/Prov.: 1/6
+ Variant Name:
+ SX1_TMOD-uk-de-nl_05_0003
+ Lang T9: uk-de-nl/uk-de-nl
+ Rolf Variant Name:
+ SX1_TMOD-uk-de-nl_05_0003
+ Rolf lang T9: uk-de-nl/uk-de-nl
+ Codecs: FR/EFR/HR
+ Audio-Par.: NfV 16
+ Acc.: None
+date: n/a
+type: mobile phone
+note: version info is stored, this is not from the current device!
+EOD
+08:00:46@196613
+device: Sony Clie PEG TH55
+version: n/a
+date: n/a
+type: pda
+note: n/a
+EOD
+00:0E:07@5047446
+Device: Phone
+Manufacturer: SonyEricsson
+Model: K700i
+EOD
+00:0F:DE@5047446
+vevice: K700i
+version: ?
+date: ?
+type: mobile phone
+note: n/a
+EOD
+00:0A:D9@917518
+device: Sony Ericsson P800
+version: phone: CXC162002 R1D
+         bluetooth: CXC12529 R2C
+         organizer: CXC162001 R1G05
+         cda: CXC162002/23 R2A
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:0A:D9@1179728
+device: SonyEricsson P900
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:0A:D9@4063698
+device:  Sony Ericsson T610
+version: R1L013
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:0F:DE@4063698
+Device: Phone
+Manufacturer: SonyEricsson
+Model: T630
+
+additional info:
+chaps@gentoo bluetooth $ obexftp -b 00:0F:DE:xx:xx:xx -B 10 -g telecom/devinfo.txt
+Browsing 00:0F:DE:xx:xx:xx
+Channel: 7
+No custom transport
+Connecting...bt: 1
+done
+Receiving telecom/devinfo.txt... done
+Disconnecting...done
+chaps@gentoo bluetooth $ cat devinfo.txt
+MANU:Sony Ericsson
+MOD:T630-T628
+SW-VERSION:prgCXC125789_EMEA_1_N
+SW-DATE:20R4C003TTTTT00
+HW-VERSION:proto
+SN:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+PB-TYPE-TX:VCARD2.1
+PB-TYPE-RX:VCARD2.1
+CAL-TYPE-TX:VCAL1.0
+CAL-TYPE-RX:VCAL1.0
+MSG-TYPE-TX:NONE
+MSG-TYPE-RX:NONE
+NOTE-TYPE-TX:VNOTE1.1
+NOTE-TYPE-RX:VNOTE1.1
+X-ERI-MELODY-TYPE-TX:EMELODY1.0
+X-ERI-MELODY-TYPE-RX:EMELODY1.0
+IRMC-VERSION:1.1
+INBOX:MULTIPLE
+MSG-SENT-BOX:NO
+EOD
+00:0E:07@4063698
+device: SonyEricsson T630
+version: n/a
+date: n/a:
+type: mobile phone
+note: n/a
+EOD
+00:0A:D9@4063698
+device:  Sony Ericsson Z600 
+version: n/a
+date: n/a
+type: mobile phone
+note: n/a
+EOD
+00:0E:ED@2949234
+model: nokia 7610 (nokia catalina)
+firmware version: V 4.0421.4 22-05-04 RH-51
+phone version: 2.0
+symbian version: 7.0s
+platform: series60
+platform version: 2.1
+
+additional info:
+CPU: ARM
+speed: 123MHz
+arch: ARM4T
+EOD
+00:80:37@2359452
+device: SonyEricsson T68i
+version: n/a
+date: n/a:
+type: mobile phone
+note: n/a
+EOD
